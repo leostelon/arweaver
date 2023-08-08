@@ -35,6 +35,7 @@ The product contains two code bases, Server to serve the Client and also polls f
  - **Node.js server** with Express.js.
  - Database, **Kwil &  MongoDB**. [[kwil.com]](https://kwil.xyz/)
 - **ArConnect** is the secure gateway to the leading platforms in the growing Arweave ecosystem, [[know more]](https://www.arconnect.io/)
+-  **areave-js & GraphQL** to query data from the blockchain. [[arweave-js]](https://github.com/ArweaveTeam/arweave-js)  [[arweave-graphql]](https://gql-guide.vercel.app/)
 - **Othent** allows web3 dApps and protocols to seamlessly access web2 users, [[know more]](https://othent.io/)
 - React.js for client.
 
